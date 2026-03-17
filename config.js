@@ -31,9 +31,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/hhk8i3.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ANAYAT-AI",
+BOT_NAME: process.env.BOT_NAME || "Λ I Ｚ Σ 𝐍",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "ANAYAT-AI",
+STICKER_NAME: process.env.STICKER_NAME || "Λ I Ｚ Σ 𝐍",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -41,11 +41,11 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923452401207",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "27694367381",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝙰𝙽𝙰𝚈𝙰𝚃 𝙷𝙰𝙲𝙺𝙴𝚁",
+OWNER_NAME: process.env.OWNER_NAME || "TΛPIWΛ",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙰𝙽𝙰𝚈𝙰𝚃-𝙰𝙸 ❣️*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Λ I Ｚ Σ 𝐍*",
 // add bot owner name    
 ALIVE_VID: process.env.ALIVE_VID || "https://files.catbox.moe/2myos8.mp4",
 // add img for alive msg
@@ -73,7 +73,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923452401207",
+DEV: process.env.DEV || "27694367381",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "false",
 // true for anti once view 
